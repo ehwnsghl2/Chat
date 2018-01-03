@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "812762768566",
+    "firebase_url": "https://chatting-aaec1.firebaseio.com",
+    "project_id": "chatting-aaec1",
+    "storage_bucket": "chatting-aaec1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812762768566:android:c2f3d28c8fe48645",
+        "android_client_info": {
+          "package_name": "brandjunhoe89.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812762768566-a5ve01fkjofjo9kkh6tmfconb5nm60fa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "brandjunhoe89.chatting",
+            "certificate_hash": "fc91419041758876f0474d43b096af520a3cef83"
+          }
+        },
+        {
+          "client_id": "812762768566-mi1rsus14jvckceu4e0jalb27n8u204l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV-LoslFPIipDGhqsqjxWuGt4JEl18d68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812762768566-mi1rsus14jvckceu4e0jalb27n8u204l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
